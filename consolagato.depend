@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1283778066 source:c:\documents and settings\1000079\escritorio\consolagato\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<fstream>
+
+1283443464 source:f:\fernando\consolagato\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<fstream>
+
+1286145170 source:m:\fernando\consolagato\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<fstream>
+
+1283752868 source:m:\7-zipportable\consolagato\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<fstream>
+
